@@ -1,0 +1,11 @@
+Administrator 
+Login: 68020300458
+Hasło: 123
+
+Moderator
+97082102569
+Hasło: 123
+
+Klient
+Login: 68020300458
+Hasło: 123
